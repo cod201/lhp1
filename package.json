@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.3",
     "bootbot": "^1.0.13",
     "request": "^2.83.0",
-    "express": "^4.16.2"
+    "express": "^4.21.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
